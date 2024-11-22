@@ -1,0 +1,22 @@
+[
+  {"Drug": "N-acetylcysteine", "Disease": "Cystic fibrosis"},
+  {"Drug": "Metformin", "Disease": "Type 2 diabetes"},
+  {"Drug": "Simvastatin", "Disease": "Hypercholesterolemia"},
+  {"Drug": "Hydroxychloroquine", "Disease": "Malaria and autoimmune diseases"},
+  {"Drug": "Eculizumab", "Disease": "Paroxysmal nocturnal hemoglobinuria"},
+  {"Drug": "Valproic acid", "Disease": "Epilepsy and bipolar disorder"},
+  {"Drug": "Interferon beta", "Disease": "Multiple sclerosis"},
+  {"Drug": "Cladribine", "Disease": "Hairy cell leukemia"},
+  {"Drug": "Bosentan", "Disease": "Pulmonary arterial hypertension"},
+  {"Drug": "Riluzole", "Disease": "Amyotrophic lateral sclerosis"},
+  {"Drug": "Dimethyl fumarate", "Disease": "Multiple sclerosis"},
+  {"Drug": "Sirolimus", "Disease": "Organ transplant rejection"},
+  {"Drug": "Deferoxamine", "Disease": "Iron overload disorders"},
+  {"Drug": "Levodopa", "Disease": "Parkinson’s disease"},
+  {"Drug": "Lithium carbonate", "Disease": "Bipolar disorder"},
+  {"Drug": "Fingolimod", "Disease": "Multiple sclerosis"},
+  {"Drug": "Nusinersen", "Disease": "Spinal muscular atrophy"},
+  {"Drug": "Ibudilast", "Disease": "Asthma and post-stroke recovery"},
+  {"Drug": "Pirfenidone", "Disease": "Idiopathic pulmonary fibrosis"},
+  {"Drug": "Arimoclomol", "Disease": "Niemann-Pick disease type C"}
+]

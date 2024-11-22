@@ -1,0 +1,22 @@
+[
+  {"Drug": "N-acetylcysteine", "Disease": "Acetaminophen overdose"},
+  {"Drug": "Simvastatin", "Disease": "Hypercholesterolemia"},
+  {"Drug": "Miglustat", "Disease": "Gaucher disease"},
+  {"Drug": "Metformin", "Disease": "Type 2 Diabetes"},
+  {"Drug": "Bupropion", "Disease": "Depression and Smoking Cessation"},
+  {"Drug": "Itraconazole", "Disease": "Fungal Infections"},
+  {"Drug": "Minocycline", "Disease": "Bacterial Infections"},
+  {"Drug": "Lisinopril", "Disease": "Hypertension"},
+  {"Drug": "Sildenafil", "Disease": "Erectile Dysfunction and Pulmonary Hypertension"},
+  {"Drug": "Valproic Acid", "Disease": "Epilepsy and Bipolar Disorder"},
+  {"Drug": "Hydroxyurea", "Disease": "Sickle Cell Anemia"},
+  {"Drug": "Dantrolene", "Disease": "Malignant Hyperthermia"},
+  {"Drug": "Cladribine", "Disease": "Hairy Cell Leukemia and Multiple Sclerosis"},
+  {"Drug": "Idebenone", "Disease": "Friedreich's Ataxia"},
+  {"Drug": "Rapamycin", "Disease": "Prevention of Organ Transplant Rejection"},
+  {"Drug": "Eculizumab", "Disease": "Paroxysmal Nocturnal Hemoglobinuria"},
+  {"Drug": "Deferiprone", "Disease": "Thalassemia Major"},
+  {"Drug": "Thalidomide", "Disease": "Multiple Myeloma and Erythema Nodosum Leprosum"},
+  {"Drug": "Flupirtine", "Disease": "Pain Management"},
+  {"Drug": "Propranolol", "Disease": "Hypertension and Anxiety"}
+]

@@ -1,0 +1,22 @@
+[
+    {"Drug": "Minocycline", "Disease": "Bacterial Infections"},
+    {"Drug": "Simvastatin", "Disease": "Hypercholesterolemia"},
+    {"Drug": "N-Acetylcysteine", "Disease": "Acetaminophen Overdose"},
+    {"Drug": "Metformin", "Disease": "Type 2 Diabetes"},
+    {"Drug": "Valproic Acid", "Disease": "Epilepsy"},
+    {"Drug": "Erythropoietin", "Disease": "Anemia"},
+    {"Drug": "Pyrimethamine", "Disease": "Malaria"},
+    {"Drug": "Cladribine", "Disease": "Multiple Sclerosis"},
+    {"Drug": "Fingolimod", "Disease": "Multiple Sclerosis"},
+    {"Drug": "Dexamethasone", "Disease": "Inflammatory Disorders"},
+    {"Drug": "Itraconazole", "Disease": "Fungal Infections"},
+    {"Drug": "Rapamycin (Sirolimus)", "Disease": "Organ Transplant Rejection"},
+    {"Drug": "Riluzole", "Disease": "Amyotrophic Lateral Sclerosis (ALS)"},
+    {"Drug": "Trehalose", "Disease": "Neurodegenerative Disorders (investigational)"},
+    {"Drug": "Clemastine", "Disease": "Allergic Rhinitis"},
+    {"Drug": "Tamoxifen", "Disease": "Breast Cancer"},
+    {"Drug": "Levodopa", "Disease": "Parkinson’s Disease"},
+    {"Drug": "Hydroxychloroquine", "Disease": "Malaria and Autoimmune Disorders"},
+    {"Drug": "Boswellic Acid", "Disease": "Inflammatory Disorders (herbal origin)"},
+    {"Drug": "Atorvastatin", "Disease": "Hypercholesterolemia"}
+]

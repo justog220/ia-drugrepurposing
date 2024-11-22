@@ -1,0 +1,22 @@
+[
+    {"Drug": "Ibudilast", "Disease": "Asthma"},
+    {"Drug": "Fingolimod", "Disease": "Multiple Sclerosis"},
+    {"Drug": "Sirolimus", "Disease": "Organ Transplant Rejection"},
+    {"Drug": "Valproic Acid", "Disease": "Epilepsy"},
+    {"Drug": "Metformin", "Disease": "Type 2 Diabetes"},
+    {"Drug": "Erythropoietin", "Disease": "Anemia"},
+    {"Drug": "Pirfenidone", "Disease": "Idiopathic Pulmonary Fibrosis"},
+    {"Drug": "N-Acetylcysteine", "Disease": "Acetaminophen Overdose"},
+    {"Drug": "Minocycline", "Disease": "Bacterial Infections"},
+    {"Drug": "Riluzole", "Disease": "Amyotrophic Lateral Sclerosis"},
+    {"Drug": "Trehalose", "Disease": "Metabolic Disorders"},
+    {"Drug": "Clemastine", "Disease": "Allergies"},
+    {"Drug": "Lithium", "Disease": "Bipolar Disorder"},
+    {"Drug": "Sodium Phenylbutyrate", "Disease": "Urea Cycle Disorders"},
+    {"Drug": "Cholestyramine", "Disease": "Hypercholesterolemia"},
+    {"Drug": "Deferiprone", "Disease": "Iron Overload"},
+    {"Drug": "Canakinumab", "Disease": "Autoinflammatory Conditions"},
+    {"Drug": "Aripiprazole", "Disease": "Schizophrenia"},
+    {"Drug": "Azathioprine", "Disease": "Autoimmune Disorders"},
+    {"Drug": "Nimodipine", "Disease": "Subarachnoid Hemorrhage"}
+]
