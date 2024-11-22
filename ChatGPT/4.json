@@ -1,0 +1,22 @@
+[
+    {"Drug": "Metformin", "Disease": "Type 2 Diabetes"},
+    {"Drug": "Pioglitazone", "Disease": "Type 2 Diabetes"},
+    {"Drug": "Simvastatin", "Disease": "Hypercholesterolemia"},
+    {"Drug": "Atorvastatin", "Disease": "Hypercholesterolemia"},
+    {"Drug": "Losartan", "Disease": "Hypertension"},
+    {"Drug": "Telmisartan", "Disease": "Hypertension"},
+    {"Drug": "Doxycycline", "Disease": "Bacterial Infections"},
+    {"Drug": "Rifampin", "Disease": "Tuberculosis"},
+    {"Drug": "Valproic Acid", "Disease": "Epilepsy"},
+    {"Drug": "Cannabidiol (CBD)", "Disease": "Epilepsy"},
+    {"Drug": "Tramiprosate (precursor to ALZ-801)", "Disease": "Neurological Disorders"},
+    {"Drug": "Risperidone", "Disease": "Schizophrenia"},
+    {"Drug": "Fluoxetine", "Disease": "Depression"},
+    {"Drug": "Sargramostim (GM-CSF)", "Disease": "Leukemia"},
+    {"Drug": "Liraglutide", "Disease": "Type 2 Diabetes"},
+    {"Drug": "Exenatide", "Disease": "Type 2 Diabetes"},
+    {"Drug": "Hydroxychloroquine", "Disease": "Rheumatoid Arthritis"},
+    {"Drug": "Minocycline", "Disease": "Bacterial Infections"},
+    {"Drug": "Rosiglitazone", "Disease": "Type 2 Diabetes"},
+    {"Drug": "Zileuton", "Disease": "Asthma"}
+]

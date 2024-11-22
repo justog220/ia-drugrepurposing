@@ -1,0 +1,22 @@
+[
+    {"Drug": "Bevacizumab", "Disease": "Cancer"},
+    {"Drug": "Simvastatin", "Disease": "Hypercholesterolemia"},
+    {"Drug": "Metformin", "Disease": "Type 2 Diabetes"},
+    {"Drug": "Fluoxetine", "Disease": "Depression"},
+    {"Drug": "Lithium", "Disease": "Bipolar Disorder"},
+    {"Drug": "Minocycline", "Disease": "Acne"},
+    {"Drug": "Ibuprofen", "Disease": "Pain and Inflammation"},
+    {"Drug": "Celecoxib", "Disease": "Osteoarthritis"},
+    {"Drug": "Rapamycin", "Disease": "Organ Transplant Rejection"},
+    {"Drug": "Exenatide", "Disease": "Type 2 Diabetes"},
+    {"Drug": "Liraglutide", "Disease": "Type 2 Diabetes"},
+    {"Drug": "Duloxetine", "Disease": "Depression and Anxiety"},
+    {"Drug": "Nifedipine", "Disease": "Hypertension"},
+    {"Drug": "Nicotine", "Disease": "Smoking Cessation"},
+    {"Drug": "Vitamin E", "Disease": "Antioxidant Supplement"},
+    {"Drug": "Omega-3 Fatty Acids", "Disease": "Heart Disease"},
+    {"Drug": "Donepezil", "Disease": "Alzheimer's Disease"},
+    {"Drug": "Rivastigmine", "Disease": "Alzheimer's Disease"},
+    {"Drug": "Galantamine", "Disease": "Alzheimer's Disease"},
+    {"Drug": "Memantine", "Disease": "Alzheimer's Disease"}
+]

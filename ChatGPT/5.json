@@ -1,0 +1,22 @@
+[
+    {"Drug": "Chlorpromazine", "Disease": "Schizophrenia"},
+    {"Drug": "Captopril", "Disease": "Hypertension"},
+    {"Drug": "Carvedilol", "Disease": "Hypertension"},
+    {"Drug": "Losartan", "Disease": "Hypertension"},
+    {"Drug": "Pioglitazone", "Disease": "Type 2 Diabetes"},
+    {"Drug": "Metformin", "Disease": "Type 2 Diabetes"},
+    {"Drug": "Atorvastatin", "Disease": "Hyperlipidemia"},
+    {"Drug": "Simvastatin", "Disease": "Hyperlipidemia"},
+    {"Drug": "Lithium", "Disease": "Bipolar Disorder"},
+    {"Drug": "Celecoxib", "Disease": "Arthritis (Anti-inflammatory)"},
+    {"Drug": "Ibuprofen", "Disease": "Pain and Inflammation"},
+    {"Drug": "Valproic Acid", "Disease": "Epilepsy"},
+    {"Drug": "Rosiglitazone", "Disease": "Type 2 Diabetes"},
+    {"Drug": "Perphenazine", "Disease": "Schizophrenia"},
+    {"Drug": "Quetiapine", "Disease": "Schizophrenia"},
+    {"Drug": "Sildenafil", "Disease": "Erectile Dysfunction"},
+    {"Drug": "Minocycline", "Disease": "Bacterial Infections"},
+    {"Drug": "Nimodipine", "Disease": "Subarachnoid Hemorrhage"},
+    {"Drug": "Riluzole", "Disease": "Amyotrophic Lateral Sclerosis"},
+    {"Drug": "Doxycycline", "Disease": "Bacterial Infections"}
+]

@@ -1,0 +1,22 @@
+[
+    {"Drug": "Bevacizumab", "Disease": "Cancer"},
+    {"Drug": "Simvastatin", "Disease": "Hypercholesterolemia"},
+    {"Drug": "Metformin", "Disease": "Type 2 Diabetes"},
+    {"Drug": "Fluoxetine", "Disease": "Depression"},
+    {"Drug": "Lithium", "Disease": "Bipolar Disorder"},
+    {"Drug": "Minocycline", "Disease": "Acne"},
+    {"Drug": "Ibuprofen", "Disease": "Pain and Inflammation"},
+    {"Drug": "Celecoxib", "Disease": "Osteoarthritis"},
+    {"Drug": "Rapamycin", "Disease": "Organ Transplant Rejection"},
+    {"Drug": "Exenatide", "Disease": "Type 2 Diabetes"},
+    {"Drug": "Liraglutide", "Disease": "Type 2 Diabetes"},
+    {"Drug": "Doxycycline", "Disease": "Bacterial Infections"},
+    {"Drug": "Vitamin E", "Disease": "Antioxidant Supplement"},
+    {"Drug": "Omega-3 Fatty Acids", "Disease": "Heart Disease"},
+    {"Drug": "Curcumin", "Disease": "Inflammation"},
+    {"Drug": "Resveratrol", "Disease": "Antioxidant and Anti-inflammatory"},
+    {"Drug": "Etanercept", "Disease": "Rheumatoid Arthritis"},
+    {"Drug": "Aducanumab", "Disease": "Alzheimer's Disease"},
+    {"Drug": "Lecanemab", "Disease": "Alzheimer's Disease"},
+    {"Drug": "Donanemab", "Disease": "Alzheimer's Disease"}
+]

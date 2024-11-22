@@ -1,0 +1,22 @@
+[
+    {"Drug": "Bevacizumab", "Disease": "Cancer"},
+    {"Drug": "Simvastatin", "Disease": "Hypercholesterolemia"},
+    {"Drug": "Metformin", "Disease": "Type 2 Diabetes"},
+    {"Drug": "Fluoxetine", "Disease": "Depression"},
+    {"Drug": "Lithium", "Disease": "Bipolar Disorder"},
+    {"Drug": "Minocycline", "Disease": "Acne"},
+    {"Drug": "Ibuprofen", "Disease": "Pain and Inflammation"},
+    {"Drug": "Celecoxib", "Disease": "Osteoarthritis"},
+    {"Drug": "Rapamycin", "Disease": "Organ Transplant Rejection"},
+    {"Drug": "Exenatide", "Disease": "Type 2 Diabetes"},
+    {"Drug": "Liraglutide", "Disease": "Type 2 Diabetes"},
+    {"Drug": "Duloxetine", "Disease": "Depression and Anxiety"},
+    {"Drug": "Nifedipine", "Disease": "Hypertension"},
+    {"Drug": "Losartan", "Disease": "Hypertension"},
+    {"Drug": "Etanercept", "Disease": "Rheumatoid Arthritis"},
+    {"Drug": "Adalimumab", "Disease": "Rheumatoid Arthritis"},
+    {"Drug": "Aducanumab", "Disease": "Alzheimer's Disease"},
+    {"Drug": "Lecanemab", "Disease": "Alzheimer's Disease"},
+    {"Drug": "Donanemab", "Disease": "Alzheimer's Disease"},
+    {"Drug": "Piracetam", "Disease": "Cognitive Impairment"}
+]

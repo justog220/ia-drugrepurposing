@@ -1,0 +1,22 @@
+[
+    {"Drug": "Metformin", "Disease": "Type 2 Diabetes"},
+    {"Drug": "Losartan", "Disease": "Hypertension"},
+    {"Drug": "Simvastatin", "Disease": "Hypercholesterolemia"},
+    {"Drug": "Candesartan", "Disease": "Hypertension"},
+    {"Drug": "Diltiazem", "Disease": "Hypertension and Angina"},
+    {"Drug": "Propranolol", "Disease": "Hypertension and Anxiety"},
+    {"Drug": "Pioglitazone", "Disease": "Type 2 Diabetes"},
+    {"Drug": "Rifampin", "Disease": "Tuberculosis"},
+    {"Drug": "Minocycline", "Disease": "Bacterial Infections"},
+    {"Drug": "Furosemide", "Disease": "Edema and Hypertension"},
+    {"Drug": "Clopidogrel", "Disease": "Blood Clot Prevention"},
+    {"Drug": "Rosiglitazone", "Disease": "Type 2 Diabetes"},
+    {"Drug": "Sildenafil", "Disease": "Erectile Dysfunction"},
+    {"Drug": "Melatonin", "Disease": "Sleep Disorders"},
+    {"Drug": "Atorvastatin", "Disease": "Hypercholesterolemia"},
+    {"Drug": "Glibenclamide", "Disease": "Type 2 Diabetes"},
+    {"Drug": "Valproic Acid", "Disease": "Epilepsy and Bipolar Disorder"},
+    {"Drug": "Carvedilol", "Disease": "Heart Failure and Hypertension"},
+    {"Drug": "Risperidone", "Disease": "Schizophrenia"},
+    {"Drug": "Celecoxib", "Disease": "Pain and Inflammation"}
+]

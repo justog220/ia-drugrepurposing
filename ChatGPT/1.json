@@ -1,0 +1,22 @@
+[
+    {"Drug": "Bexarotene", "Disease": "Cancer (Cutaneous T-cell lymphoma)"},
+    {"Drug": "Nilotinib", "Disease": "Cancer (Chronic myeloid leukemia)"},
+    {"Drug": "Sargramostim", "Disease": "Bone marrow disorders"},
+    {"Drug": "Ruxolitinib", "Disease": "Cancer (Myelofibrosis, Polycythemia vera)"},
+    {"Drug": "Itraconazole", "Disease": "Fungal infections"},
+    {"Drug": "Efavirenz", "Disease": "HIV/AIDS"},
+    {"Drug": "Metformin", "Disease": "Type 2 diabetes"},
+    {"Drug": "Riluzole", "Disease": "Amyotrophic lateral sclerosis (ALS)"},
+    {"Drug": "Pioglitazone", "Disease": "Type 2 diabetes"},
+    {"Drug": "Rosiglitazone", "Disease": "Type 2 diabetes"},
+    {"Drug": "Vorinostat", "Disease": "Cancer (Cutaneous T-cell lymphoma)"},
+    {"Drug": "Lenalidomide", "Disease": "Cancer (Multiple myeloma, Myelodysplastic syndromes)"},
+    {"Drug": "Tocilizumab", "Disease": "Rheumatoid arthritis"},
+    {"Drug": "Salsalate", "Disease": "Arthritis"},
+    {"Drug": "Lithium", "Disease": "Bipolar disorder"},
+    {"Drug": "Minocycline", "Disease": "Bacterial infections"},
+    {"Drug": "Trazodone", "Disease": "Depression"},
+    {"Drug": "Candesartan", "Disease": "Hypertension"},
+    {"Drug": "Losartan", "Disease": "Hypertension"},
+    {"Drug": "Citalopram", "Disease": "Depression"}
+]

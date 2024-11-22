@@ -1,0 +1,22 @@
+[
+    {"Drug": "Baricitinib", "Disease": "Rheumatoid Arthritis"},
+    {"Drug": "Tofacitinib", "Disease": "Rheumatoid Arthritis"},
+    {"Drug": "Ruxolitinib", "Disease": "Myelofibrosis"},
+    {"Drug": "Ibrutinib", "Disease": "Chronic Lymphocytic Leukemia"},
+    {"Drug": "Leflunomide", "Disease": "Rheumatoid Arthritis"},
+    {"Drug": "Nintedanib", "Disease": "Idiopathic Pulmonary Fibrosis"},
+    {"Drug": "Bosutinib", "Disease": "Chronic Myelogenous Leukemia"},
+    {"Drug": "Dapagliflozin", "Disease": "Type 2 Diabetes Mellitus"},
+    {"Drug": "Metformin", "Disease": "Type 2 Diabetes Mellitus"},
+    {"Drug": "Atorvastatin", "Disease": "Hypercholesterolemia"},
+    {"Drug": "Simvastatin", "Disease": "Hypercholesterolemia"},
+    {"Drug": "Pioglitazone", "Disease": "Type 2 Diabetes Mellitus"},
+    {"Drug": "Apremilast", "Disease": "Psoriatic Arthritis"},
+    {"Drug": "Fluoxetine", "Disease": "Depression"},
+    {"Drug": "Duloxetine", "Disease": "Depression and Pain Management"},
+    {"Drug": "Riluzole", "Disease": "Amyotrophic Lateral Sclerosis"},
+    {"Drug": "Ketamine", "Disease": "Anesthesia and Depression"},
+    {"Drug": "Candesartan", "Disease": "Hypertension"},
+    {"Drug": "Losartan", "Disease": "Hypertension"},
+    {"Drug": "Nilotinib", "Disease": "Chronic Myelogenous Leukemia"}
+]
